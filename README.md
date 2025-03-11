@@ -88,9 +88,3 @@ The neural network model is built using the Keras Functional API and consists of
 The model is compiled with the Adam optimizer and binary cross-entropy loss function.
 
 
-## License
-
-This project is licensed under the [MIT License](https://www.google.com/url?sa=E&source=gmail&q=LICENSE).
-
-```
-```
